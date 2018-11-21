@@ -1,6 +1,6 @@
 # _friends_
 
-#### _practice website for [a blog about Remote Github Repositories](https://codinglead.github.io/2018/10/31/Github-remote-repositories/), 11.15.2018_
+#### _practice website for [a blog about Remote Github Repositories](https://codinglead.github.io/github/Github-remote-repositories), 11.15.2018_
 
 #### By _**planeswalker1**_
 
